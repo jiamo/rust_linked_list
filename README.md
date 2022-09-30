@@ -1,5 +1,16 @@
 
 
-## extact code stdlib linked list
+## extact code from stdlib linked list
+just for study
 
-## rustup override set nightly
+## must using the nightly rust
+```
+rustup override set nightly
+```
+
+## test
+```
+cargo test
+```
+## TODO
+1. add more test
